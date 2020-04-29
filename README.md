@@ -1,5 +1,7 @@
 # Kogito Travel Agency - tutorial
 
+**For the latest updates on this tutorial, please visit [kogito-travel-agency](https://github.com/kiegroup/kogito-examples/tree/stable/kogito-travel-agency)**
+
 ## Description
 
 During this workshop we will create a software system for a startup travel agency called Kogito Travel Agency. It
